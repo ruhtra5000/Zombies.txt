@@ -1,0 +1,137 @@
+%nome%Casa Padrão
+%desc%Uma casa familiar padrão de Craylden Harbour.
+. []. . . . # . . . 
+. . . . . Z # . []. 
+. . . . . . # . . . 
+# # . . # # # . . . 
+. . . . . . . . Z . 
+. . . . . . . . . . 
+. . . . . . # . . # 
+. . . # # # # . . . 
+. . . # . . # . . . 
+. O . # . . # [][]. 
+%=%
+%nome%Casa Padrão
+%desc%Uma casa familiar padrão de Craylden Harbour.
+. . . []. # . . . . 
+. . Z . . # . . []. 
+[]. . # # # . . . . 
+. . . . . . . . . . 
+. . . # . . . . . . 
+# # # # . # . # # # 
+. . []. . # . . . . 
+. . . . . # . . . . 
+. . . . . # . . O . 
+. . . . []# . . . . 
+%=%
+%nome%Neo176
+%desc%Ruínas da loja de roupas Neo176, a qual foi
+%desc%tomada pela natureza (e alguns zumbis).
+. []. . . . # . . . 
+. . . . . . # . O . 
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . . . . # . . . 
+# # . . # # # . . . 
+. . . . . . # . . . 
+. Z . . . . # . []. 
+. . . . Z . # . . . 
+. [][]. . []# . . . 
+%=%
+%nome%Rua Barton's Lane
+%desc%Uma rua na periferia de Craylden Harbour, com alguns
+%desc%muros caídos e diversas mobílias espalhadas.
+[]. . . . # . . . . 
+# # # # . # . . . []
+. . . . . . . O . . 
+. Z . . . . . . . . 
+. . . . . . . . . . 
+# # # # # # . . . # 
+. . . . . . . . . # 
+. . . . . . . . . # 
+. . . Z . # . . []# 
+. []. . []# . . . # 
+%=%
+%nome%Casa estudantil
+%desc%Antiga morada de estudantes da faculdade Yasser O'Neil.
+. . . # . . # []. . 
+. . . # . . # . . . 
+[]. . # . . # . Z . 
+# # . # . . # . . # 
+. . . . . . . . . . 
+. . . . O . . . . . 
+# # # # . . # # # # 
+. . . . . . . . []. 
+. . []. . . . . . . 
+. . . . . . . . . . 
+%=%
+%nome%Banheiro e vestiário
+%desc%Vestiário do ginásio da faculdade Yasser O'Neil.
+# . []. # . . . . . 
+. . . . . . . []. . 
+# . . . . . . . . . 
+Z . . . # . . . . . 
+# . . . # # # # . . 
+. . . . # []. . . . 
+# . . . # . . . . . 
+. . Z . # . . . . . 
+# . . . # . . . O . 
+[]. . []# . . . . . 
+%=%
+%nome%Cemitério Saint Barbara
+%desc%O maior cemitério de Craylden Harbour, onde alguns 
+%desc%tentaram se abrigar, porém sem sucesso.
+[]. . . . . . . . . 
+. # . # . . # . # . 
+. . . . . . Z . . . 
+. # []# . . # . # . 
+. . . . . . . . []. 
+. # . # . . # . # . 
+. Z . . . . . . . . 
+. # . # . . # . # . 
+. . . . . . . . . . 
+. . . . . . O . . []
+%=%
+%nome%Escritórios da Innovation X
+%desc%Base administrativa da empresa farmaceutíca Innovation X.
+. . . []# . . . . . 
+. . . . # . . # # . 
+[]. Z . . . . # # . 
+. . . . . . . . . . 
+# # # # # . . . . O 
+. . . . # . . . . . 
+. . []. . . . []. . 
+. []. . . . . # # . 
+. . . . # . . # # . 
+. . Z . # . . . . . 
+%=%
+%nome%Supermercado Blue Bottles
+%desc%Corredores de um supermercado quase totalmente
+%desc%saqueado. Durante o surto do vírus, muitas pessoas
+%desc%em desespero roubaram os itens desse e outros mercados.
+. . . . . . . . . . 
+. . []# # # []# . . 
+. . . . . . . . . . 
+. . # # # # # # . . 
+. . . . Z . . . . . 
+. . # # # []# # . O 
+. . . . . . . . . . 
+. . # # # # # []. . 
+. Z . . . . . . . . 
+. . # []# # # # . . 
+%=%
+%nome%Agência da Main Finance
+%desc%Uma agência bancária pertencente ao banco Main Finance.
+%desc%No início do surto, haviam muitas pessoas no banco, 
+%desc%e algumas delas não conseguiram sair do local a tempo.
+. . . . . Z . # . . 
+[]. . . . . . # . O 
+. . . Z . . . # . . 
+[]. . . . . . # . . 
+. . . . . . . . . . 
+[]. . . . . . # . . 
+. . Z . . . . # . . 
+[]. . . . . . # . . 
+. . . . . Z . # . . 
+[]. . . . . . # . . 
+%=%
